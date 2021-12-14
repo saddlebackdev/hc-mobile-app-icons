@@ -1,5 +1,5 @@
 {
-  "name": "healthy-church-icons",
+  "name": "hc-app-icons",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "publishConfig": {

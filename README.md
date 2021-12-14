@@ -1,4 +1,4 @@
-# Healthy Chruch Icons
+# Healthy Chruch App Icons
 
 SVG Icon Set being used across Healthy Church Apps.
 
@@ -7,7 +7,7 @@ SVG Icon Set being used across Healthy Church Apps.
 Using a package manager:
 
 ```sh
-npm install healthy-church-icons
+npm install hc-app-icons
 ```
 
 ### Usage
@@ -17,7 +17,7 @@ npm install healthy-church-icons
 On the web, these icons can be used without an additional setup.
 
 ```jsx
-import { IconActivity } from "healthy-church-icons";
+import { IconActivity } from "hc-app-icons";
 
 <img src={IconActivity} />
 ```
