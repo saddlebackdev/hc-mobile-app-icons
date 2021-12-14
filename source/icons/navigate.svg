@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Navigate</title>
+    <defs>
+        <path d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M12,2.25 C6.61522369,2.25 2.25,6.61522369 2.25,12 C2.25,17.3847763 6.61522369,21.75 12,21.75 C17.3847763,21.75 21.75,17.3847763 21.75,12 C21.75,6.61522369 17.3847763,2.25 12,2.25 Z M17.8336309,6.16636906 L13.5909903,13.5909903 L6.16636906,17.8336309 L10.4090097,10.4090097 L17.8336309,6.16636906 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons---In-Use-(ME)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-63.000000, -348.000000)">
+            <g id="Navigate" transform="translate(63.000000, 348.000000)">
+                <rect id="Rectangle-4" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape-Copy-6" fill="#1C2530" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                    <g id="💟-Icon-Style">
+                        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

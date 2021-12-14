@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="0.3in" height="0.3in" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1c2530;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>icon-eraser</title>
+  <g id="Serving-Hours---v1.2">
+    <g id="Volunteer-Hours---01">
+      <g id="Nav-Drawer_1.-Group_B.-Bottom" data-name="Nav-Drawer/1.-Group/B.-Bottom">
+        <g id="_2_-Line-item" data-name="2️⃣-Line-item">
+          <g id="_-Icon" data-name="💜-Icon">
+            <rect id="Rectangle-4" class="cls-1" width="24" height="24"/>
+            <g id="Rectangle-985-Copy-8">
+              <path id="path-1" class="cls-2" d="M16,0a2,2,0,0,1,2,2V3.8h5a.9.9,0,0,1,1,1V6.5a.9.9,0,0,1-1,1H21V22a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2V7.5H1a.9.9,0,0,1-1-1V4.8a.9.9,0,0,1,1-1H6V2A2,2,0,0,1,8,0ZM7.3,9.8H6.2a1,1,0,0,0-1,.9h0V20a1.1,1.1,0,0,0,1,1H7.3a.9.9,0,0,0,.9-1h0V10.7a.9.9,0,0,0-.9-.9Zm5.2,0h-1a.9.9,0,0,0-1,.9h0V20a1,1,0,0,0,1,1h1a.9.9,0,0,0,1-1h0V10.7a.9.9,0,0,0-1-.9Zm5.3,0H16.7a.9.9,0,0,0-.9.9h0V20a1,1,0,0,0,.9,1h1.1a1,1,0,0,0,1-1h0V10.7a1,1,0,0,0-1-.9Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

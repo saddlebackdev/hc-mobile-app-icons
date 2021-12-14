@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Steps</title>
+    <defs>
+        <path d="M17.4991396,0 L22.5,0 C23.3284271,0 24,0.671502667 24,1.49984319 L24,22.5001568 C24,23.3284973 23.3284271,24 22.5,24 L15.9991396,24 L15.9991396,1.49984319 C15.9991396,0.671502667 16.6707125,0 17.4991396,0 Z M8.00086036,16.0500059 L8.00086036,24 L1.5,24 C0.671572875,24 0,23.3284973 0,22.5001568 L0,17.5498491 C0,16.7215085 0.671572875,16.0500059 1.5,16.0500059 L8.00086036,16.0500059 Z M16.00423,7.94998169 L16.00423,23.9999814 L8.00336966,23.9999814 L8.00336966,9.44982487 C8.00336966,8.62148436 8.67494253,7.94998169 9.50336966,7.94998169 L16.00423,7.94998169 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons---In-Use-(ME)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-303.000000, -200.000000)">
+            <g id="Steps" transform="translate(303.000000, 200.000000)">
+                <rect id="Rectangle-3" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-742-Copy-7" fill="#1C2530" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                    <g id="💟-Icon-Style">
+                        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

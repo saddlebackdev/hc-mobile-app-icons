@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="24px" viewBox="0 0 18 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Campus</title>
+    <defs>
+        <path d="M12.529425,7.09088103 L21,14.8636399 L19.5441,17.1818392 L12,10.090881 L4.4559,17.1818392 L3,14.8636399 L11.3382,7.09088103 L11.3382,3.81816077 L9.0882,3.81816077 L9.0882,2.45455949 L11.3382,2.45455949 L11.3382,0 L12.529425,0 L12.529425,2.45455949 L14.779425,2.45455949 L14.779425,3.81816077 L12.529425,3.81816077 L12.529425,7.09088103 Z M18.220575,17.1818392 L18.220575,24 L13.985325,24 L13.985325,20.8636399 C13.985325,20.8636399 13.52205,19.2272412 11.867625,19.2272412 C10.2132,19.2272412 9.882375,20.8636399 9.882375,20.8636399 L9.882375,24 L5.64705,24 L5.64705,17.1818392 L12,11.3181994 L18.220575,17.1818392 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons---In-Use-(ME)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-544.000000, -865.000000)">
+            <g id="Campus" transform="translate(541.000000, 865.000000)">
+                <rect id="Rectangle-5" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                    <g id="💟-Icon-Style">
+                        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

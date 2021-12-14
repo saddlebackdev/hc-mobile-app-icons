@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Comment</title>
+    <defs>
+        <path d="M21,16.5 L21,24 L10.5,16.5 L21,16.5 Z M21.9950534,0 C23.1023548,0 24,0.887111664 24,1.99028552 L24,14.5097145 C24,15.6089188 23.1029738,16.5 21.9950534,16.5 L2.00494659,16.5 C0.897645164,16.5 0,15.6128883 0,14.5097145 L0,1.99028552 C0,0.891081181 0.897026226,0 2.00494659,0 L21.9950534,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons---In-Use-(ME)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-303.000000, -346.000000)">
+            <g id="Comment" transform="translate(303.000000, 346.000000)">
+                <rect id="Rectangle-7" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Triangle-1" fill="#1C2530" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                    <g id="💟-Icon-Style">
+                        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

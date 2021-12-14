@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1c2530;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>serve</title>
+  <g id="My-Stuff-Navigation-Check-In-v1.0">
+    <g id="Serving-Checkin-Expanding-Block-01">
+      <g id="Dark-Items-_22v_" data-name="Dark-Items-[22v]">
+        <g id="Group-7">
+          <g id="Overrides_Elements_Icons_People_Child" data-name="Overrides/Elements/Icons/People/Child">
+            <rect id="Rectangle-4" class="cls-1" width="24" height="24"/>
+            <g id="Shape">
+              <path id="path-1" class="cls-2" d="M16.9,15.4V10.1s0-1.3,1.6-1.3A1.3,1.3,0,0,1,20,10.1v8.4c0-.1,0,5.5-8.4,5.5S4,18.9,4,18.9V4A1.1,1.1,0,0,1,5.2,2.9,1.1,1.1,0,0,1,6.4,4v7H7V2.2A1.2,1.2,0,0,1,8.3,1.1,1.1,1.1,0,0,1,9.5,2.2v7.9h.7V1.2S10.2,0,11.7,0s1.5,1.2,1.5,1.2V10h.6V2.6a1.2,1.2,0,0,1,1.3-1.1,1.2,1.2,0,0,1,1.3,1.1V15.4"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

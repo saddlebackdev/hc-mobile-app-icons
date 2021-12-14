@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Send</title>
+    <defs>
+        <path d="M19.8740221,22 L13.0951145,17.6975218 C13.0951145,17.6975218 11.0956207,19.6536574 10.0804179,20.6138683 C9.8545085,20.866716 9.50784373,20.9756096 9.17751184,20.8974872 C8.84717994,20.8193648 8.58637461,20.5668066 8.49823101,20.2396863 L6.31489438,13.6594411 L-6.21683924e-16,10.996824 L24,2 L19.8740221,22 Z M7.97029305,12.7617291 L9.32959093,16.2040407 L10.0852987,14.9305234 L23.4976886,2.51839673 L7.97029305,12.7617291 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons---In-Use-(ME)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-541.000000, -793.000000)">
+            <g id="Send" transform="translate(541.000000, 791.000000)">
+                <rect id="Rectangle-7" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="#1C2530" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                    <g id="💟-Icon-Style">
+                        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

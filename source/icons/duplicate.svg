@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Duplicate</title>
+    <defs>
+        <path d="M14.5097145,7.5 C15.6089188,7.5 16.5,8.38711166 16.5,9.49028552 L16.5,22.0097145 C16.5,23.1089188 15.6128883,24 14.5097145,24 L1.99028552,24 C0.891081181,24 0,23.1128883 0,22.0097145 L0,9.49028552 C0,8.39108118 0.887111664,7.5 1.99028552,7.5 L14.5097145,7.5 Z M22.0097145,0 C23.1089188,0 24,0.887111664 24,1.99028552 L24,14.5097145 C24,15.6089188 23.1128883,16.5 22.0097145,16.5 L19.499,16.5 L19.5,6.49028552 C19.5,5.43725593 18.6880851,4.58109292 17.6582518,4.5054356 L17.5097145,4.5 L7.5,4.5 L7.5,1.99028552 C7.5,0.891081181 8.38711166,0 9.49028552,0 L22.0097145,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons---In-Use-(ME)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-430.000000, -566.000000)">
+            <g id="Duplicate" transform="translate(430.000000, 566.000000)">
+                <rect id="Rectangle-5" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="16px-Response-Card" fill="#1C2530" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                    <g id="💟-Icon-Style">
+                        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
