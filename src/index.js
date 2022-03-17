@@ -103,3 +103,4 @@ export { default as IconFromMe } from "./icons/from-me.svg";
 export { default as IconPrivacy } from "./icons/privacy.svg";
 export { default as IconLocation } from "./icons/location.svg";
 export { default as IconConnectCard } from "./icons/connection-card.svg";
+export { default as IconExternalLink } from "./icons/external-link.svg";

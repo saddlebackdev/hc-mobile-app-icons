@@ -4,14 +4,14 @@
     <defs>
         <path d="M3,0 L21,0 C22.6568542,0 24,1.34314575 24,3 L24,21 C24,22.6568542 22.6568542,24 21,24 L3,24 C1.34314575,24 0,22.6568542 0,21 L0,3 C0,1.34314575 1.34314575,0 3,0 Z M8.25,0 L8.25,3 L4.5,3 C3.67157288,3 3,3.67157288 3,4.5 L3,8.25 L0,8.25 L0,15.75 L3,15.75 L3,19.5 C3,20.3284271 3.67157288,21 4.5,21 L8.25,21 L8.25,24 L15.75,24 L15.75,21 L19.5,21 C20.3284271,21 21,20.3284271 21,19.5 L21,15.75 L24,15.75 L24,8.25 L21,8.25 L21,4.5 C21,3.67157288 20.3284271,3 19.5,3 L15.75,3 L15.75,0 L8.25,0 Z M17.9694926,6 L17.9694926,18 L6,18 L6,6 L17.9694926,6 Z M15.9745772,8 L7.99491544,8 L7.99491544,16 L15.9745772,16 L15.9745772,8 Z M10,10 L13.9898309,10 L13.9898309,14 L10,14 L10,10 Z" id="path-1"></path>
     </defs>
-    <g id="Check-In-v1.11.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Check-In-v1.11.1" stroke="none" stroke-width="1" fill="#000" fill-rule="evenodd">
         <g id="QR-Child-Check-Out-01" transform="translate(-82.000000, -225.000000)">
             <g id="Dark-Items-[22v]" transform="translate(66.000000, 209.000000)">
                 <g id="Scan-ID" transform="translate(16.000000, 16.000000)">
-                    <mask id="mask-2" fill="white">
+                    <mask id="mask-2" fill="#000">
                         <use xlink:href="#path-1"></use>
                     </mask>
-                    <use id="Scan" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <use id="Scan" fill="#000" xlink:href="#path-1"></use>
                 </g>
             </g>
         </g>
