@@ -1,4 +1,6 @@
 export { default as IconAction } from "./icons/action.svg";
+export { default as IconAgenda } from "./icons/agenda.svg";
+export { default as IconMetrics } from "./icons/metrics.svg";
 export { default as IconClass101 } from "./icons/class-101.svg";
 export { default as IconDiscipleshipMilestone } from "./icons/discipleship-milestone.svg";
 export { default as IconMinistry } from "./icons/ministry.svg";
