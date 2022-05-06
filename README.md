@@ -2,6 +2,9 @@
 
 SVG Icon Set being used across Healthy Church Apps.
 
+### Current Icon Set
+[Icon Preview](https://htmlpreview.github.io/?https://github.com/saddlebackdev/hc-app-icons/blob/dev/src/Icons.html)
+
 ### Installation
 
 Using a package manager:
