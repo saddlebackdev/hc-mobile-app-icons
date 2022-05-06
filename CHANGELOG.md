@@ -6,5 +6,13 @@
 
 #### v1.0.2
 
-- Add Agenda, Journey, Metrics & Saddleback Icons
+- Add Metrics & Saddleback Icons
+
+#### v1.0.4
+
+- Add Agenda Icons
+
+#### v1.0.4
+
+- Add Journey Icons
 
