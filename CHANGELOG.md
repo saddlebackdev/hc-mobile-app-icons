@@ -16,3 +16,10 @@
 
 - Add Journey Icons
 
+#### v1.0.4
+
+- Add Journey Icons
+
+#### v1.0.5
+
+- Add IconCheckCircle, IconClassAll, IconCommunityLeader, IconInfo, IconPhone
