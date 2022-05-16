@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/CL Copy</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#000000" fill-rule="nonzero">
+            <g id="Icon/CL-Copy">
+                <path d="M10.5,12 C13.8140625,12 16.5,9.3140625 16.5,6 C16.5,2.6859375 13.8140625,0 10.5,0 C7.1859375,0 4.5,2.6859375 4.5,6 C4.5,9.3140625 7.1859375,12 10.5,12 Z M14.990625,13.528125 L12.75,22.5 L11.25,16.125 L12.75,13.5 L8.25,13.5 L9.75,16.125 L8.25,22.5 L6.009375,13.528125 C2.6671875,13.6875 0,16.4203125 0,19.8 L0,21.75 C0,22.9921875 1.0078125,24 2.25,24 L18.75,24 C19.9921875,24 21,22.9921875 21,21.75 L21,19.8 C21,16.4203125 18.3328125,13.6875 14.990625,13.528125 L14.990625,13.528125 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

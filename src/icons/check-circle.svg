@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Feedback/Confirmation/Pieces/Check Copy</title>
+    <defs>
+        <path d="M2.36845596,5.39928478 C1.97374456,5.00995812 1.32937963,5.01430924 0.93907953,5.39928478 L0.506154739,5.82630353 C0.111443336,6.21563019 0.109024033,6.84446714 0.509607339,7.2395856 L2.79792815,9.49668866 C3.19454637,9.88789614 3.83568391,9.88977776 4.22726862,9.50353514 L11.4956083,2.33435161 C11.8883931,1.94692534 11.8824199,1.31289155 11.4921198,0.927916007 L11.059195,0.500897267 C10.6644836,0.1115706 10.0243158,0.111781846 9.63946307,0.491384336 L3.51606897,6.53124181 L2.36845596,5.39928478 Z" id="path-1"></path>
+    </defs>
+    <g id="Small-Groups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Feedback/Confirmation/Pieces/Check-Copy">
+            <circle id="Oval-2" fill="#000000" cx="12" cy="12" r="12"></circle>
+            <g id="03---Icons/Miscellaneous/Success" transform="translate(6.000000, 7.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="🎨-Check-Mark-Icon" fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
