@@ -1,3 +1,4 @@
+export { default as IconInfo } from "./icons/info.svg";
 export { default as IconAction } from "./icons/action.svg";
 export { default as IconAgenda } from "./icons/agenda.svg";
 export { default as IconMetrics } from "./icons/metrics.svg";
