@@ -1,25 +1,25 @@
 # Changelog
 
-#### v0.0.1
+#### v1.0.6
 
-- Add Icons
+- Add ChevronRight, Groups, Notes and Reminder Icons
+- Update Ellipsis and Location Icons
 
-#### v1.0.2
-
-- Add Metrics & Saddleback Icons
-
-#### v1.0.4
-
-- Add Agenda Icons
-
-#### v1.0.4
-
-- Add Journey Icons
-
-#### v1.0.4
-
-- Add Journey Icons
+---
 
 #### v1.0.5
 
 - Add IconCheckCircle, IconClassAll, IconCommunityLeader, IconInfo, IconPhone
+
+---
+
+#### v1.0.4
+
+- Add Agenda Icons
+- Add Journey Icons
+
+---
+
+#### v1.0.2
+
+- Add Metrics & Saddleback Icons
