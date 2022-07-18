@@ -3,7 +3,6 @@
 #### v1.0.6
 
 - Add ChevronRight, Groups, Notes and Reminder Icons
-- Update Ellipsis and Location Icons
 
 ---
 

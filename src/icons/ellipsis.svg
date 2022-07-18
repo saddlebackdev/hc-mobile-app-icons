@@ -1,4 +1,16 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+      .cls-2 {
+        fill: #1c2530;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>ellipsis</title>
   <g id="Giving-C-v1.1-_New-Iteration_" data-name="Giving-C-v1.1-(New-Iteration)">
     <g id="Volunteer-Hours---01">
       <g id="Content-List-_11v-l_" data-name="Content-List-[11v-l]">
