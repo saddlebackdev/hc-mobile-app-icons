@@ -1,4 +1,8 @@
 export { default as IconInfo } from "./icons/info.svg";
+export { default as IconChevronRight } from "./icons/chevron-right.svg";
+export { default as IconGroups } from "./icons/groups.svg";
+export { default as IconNotes } from "./icons/notes.svg";
+export { default as IconReminder } from "./icons/reminder.svg";
 export { default as IconAction } from "./icons/action.svg";
 export { default as IconAgenda } from "./icons/agenda.svg";
 export { default as IconMetrics } from "./icons/metrics.svg";
