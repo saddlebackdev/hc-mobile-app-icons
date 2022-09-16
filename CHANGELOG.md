@@ -1,5 +1,11 @@
 # Changelog
 
+#### v1.0.7
+
+- Modify discipleship-milestone.svg source
+
+---
+
 #### v1.0.6
 
 - Add ChevronRight, Groups, Notes and Reminder Icons
