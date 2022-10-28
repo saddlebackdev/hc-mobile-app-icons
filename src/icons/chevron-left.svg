@@ -11,8 +11,8 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <use id="Chevron" fill="#97A4AB" xlink:href="#path-1"></use>
-                <g id="Group" mask="url(#mask-2)" fill="#1C2530">
+                <use id="Chevron" fill="#000" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#000">
                     <g id="💟-Icon-Style">
                         <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
                     </g>

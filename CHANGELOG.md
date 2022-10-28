@@ -1,5 +1,11 @@
 # Changelog
 
+#### v1.0.8
+
+- Fix the ability to modify colors on Chevrons and Info Icons
+
+---
+
 #### v1.0.7
 
 - Modify discipleship-milestone.svg source
