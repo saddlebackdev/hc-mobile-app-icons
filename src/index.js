@@ -116,3 +116,5 @@ export { default as IconLocation } from "./icons/location.svg";
 export { default as IconConnectCard } from "./icons/connection-card.svg";
 export { default as IconExternalLink } from "./icons/external-link.svg";
 export { default as IconSaddleback } from "./icons/saddleback.svg";
+export { default as IconDocument } from "./icons/document.svg";
+export { default as IconMedia } from "./icons/media.svg";
