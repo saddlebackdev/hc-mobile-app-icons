@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.9
+
+- Adding Document and Media Icons
+
+---
 #### v1.0.8
 
 - Fix the ability to modify colors on Chevrons and Info Icons
