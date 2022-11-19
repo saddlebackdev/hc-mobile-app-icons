@@ -1,5 +1,22 @@
 # Changelog
 
+#### v1.0.10
+
+- Adding the following:
+Attendance
+ClassAll
+Favorite
+Flag
+JourneyFeet
+Person
+PersonalMilestone
+Pin
+Placeholder
+Reassigned
+TimePeriod
+Transfer
+
+---
 #### v1.0.9
 
 - Adding Document and Media Icons
