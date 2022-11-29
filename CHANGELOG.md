@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.11
+
+- Adding the following:
+ConnectionForm
+---
 #### v1.0.10
 
 - Adding the following:
