@@ -1,5 +1,9 @@
 # Changelog
 
+#### v1.0.12
+
+- Adding Linked Icon and Fixed Settings Icon
+---
 #### v1.0.11
 
 - Adding the following:
