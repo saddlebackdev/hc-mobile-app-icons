@@ -135,3 +135,4 @@ export { default as IconReassigned } from "./icons/reassigned.svg";
 export { default as IconTimePeriod } from "./icons/time-period.svg";
 export { default as IconTransfer } from "./icons/transfer.svg";
 export { default as IconConnectionForm } from "./icons/connection-form.svg";
+export { default as IconLinked } from "./icons/linked.svg";
