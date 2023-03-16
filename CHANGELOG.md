@@ -1,5 +1,11 @@
 # Changelog
 
+
+#### v1.0.13
+
+- Fixing the color of the Share & Serve Icons
+---
+
 #### v1.0.12
 
 - Adding Linked Icon and Fixed Settings Icon
