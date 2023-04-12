@@ -136,3 +136,4 @@ export { default as IconTimePeriod } from "./icons/time-period.svg";
 export { default as IconTransfer } from "./icons/transfer.svg";
 export { default as IconConnectionForm } from "./icons/connection-form.svg";
 export { default as IconLinked } from "./icons/linked.svg";
+export { default as IconQuiz } from "./icons/quiz.svg";

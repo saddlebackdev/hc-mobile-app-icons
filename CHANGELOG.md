@@ -1,6 +1,11 @@
 # Changelog
 
 
+#### v1.0.14
+
+- Add Quiz Icon 
+---
+
 #### v1.0.13
 
 - Fixing the color of the Share & Serve Icons
