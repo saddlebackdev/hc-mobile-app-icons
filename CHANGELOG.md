@@ -1,6 +1,11 @@
 # Changelog
 
 
+#### v1.0.15
+
+- Add Chat Icons
+---
+
 #### v1.0.14
 
 - Add Quiz Icon 
