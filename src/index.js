@@ -132,7 +132,6 @@ export { default as IconExternalLink } from "./icons/external-link.svg";
 export { default as IconSaddleback } from "./icons/saddleback.svg";
 export { default as IconDocument } from "./icons/document.svg";
 export { default as IconMedia } from "./icons/media.svg";
-
 export { default as IconAttendance } from "./icons/attendance.svg";
 export { default as IconBlocked } from "./icons/blocked.svg";
 export { default as IconFavorite } from "./icons/favorite.svg";
@@ -148,3 +147,9 @@ export { default as IconTransfer } from "./icons/transfer.svg";
 export { default as IconConnectionForm } from "./icons/connection-form.svg";
 export { default as IconLinked } from "./icons/linked.svg";
 export { default as IconQuiz } from "./icons/quiz.svg";
+export { default as IconJourneyCandle } from "./icons/journey-candle.svg";
+export { default as IconJourneyCrib } from "./icons/journey-crib.svg";
+export { default as IconJourneyCrown } from "./icons/journey-crown.svg";
+export { default as IconJourneyFeet } from "./icons/journey-feet.svg";
+export { default as IconJourneyManger } from "./icons/journey-manger.svg";
+export { default as IconJourneyStar } from "./icons/journey-star.svg";
