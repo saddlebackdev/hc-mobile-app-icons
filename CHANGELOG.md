@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.20
+
+- Fix colors
+---
+
 #### v1.0.19
 
 - Fixed duplicate
