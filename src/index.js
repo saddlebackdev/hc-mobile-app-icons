@@ -136,7 +136,6 @@ export { default as IconAttendance } from "./icons/attendance.svg";
 export { default as IconBlocked } from "./icons/blocked.svg";
 export { default as IconFavorite } from "./icons/favorite.svg";
 export { default as IconFlag } from "./icons/flag.svg";
-export { default as IconJourneyFeet } from "./icons/journey-feet.svg";
 export { default as IconPerson } from "./icons/person.svg";
 export { default as IconPersonalMilestone } from "./icons/personal-milestone.svg";
 export { default as IconPin } from "./icons/pin.svg";
