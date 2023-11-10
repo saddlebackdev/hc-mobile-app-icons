@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.18
+
+- Add Journey to the Manger Icons
+---
+
 #### v1.0.17
 
 - Add Journey to the Manger Icons
