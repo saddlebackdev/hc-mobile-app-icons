@@ -1,6 +1,6 @@
 {
   "name": "hc-app-icons",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "main": "./dist/index.js",
   "publishConfig": {
     "access": "public"
