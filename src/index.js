@@ -109,6 +109,7 @@ export { default as IconChevronDown } from "./icons/chevron-down.svg";
 export { default as IconDelete } from "./icons/delete.svg";
 export { default as IconHamburger } from "./icons/hamburger.svg";
 export { default as IconPlay } from "./icons/play.svg";
+export { default as IconPlaybackSpeed } from "./icons/playback-speed.svg";
 export { default as IconSms } from "./icons/sms.svg";
 export { default as IconChevronLeft } from "./icons/chevron-left.svg";
 export { default as IconDevTools } from "./icons/dev-tools.svg";

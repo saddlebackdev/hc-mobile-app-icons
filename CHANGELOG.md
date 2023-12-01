@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.21
+
+- Add Playback Speed
+---
+
 #### v1.0.20
 
 - Fix colors
