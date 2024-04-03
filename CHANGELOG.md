@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.22-RC1
+
+- Add new Bottom Nav Icons
+---
+
 #### v1.0.21
 
 - Add Playback Speed
@@ -32,7 +37,7 @@
 
 #### v1.0.14
 
-- Add Quiz Icon 
+- Add Quiz Icon
 ---
 
 #### v1.0.13
