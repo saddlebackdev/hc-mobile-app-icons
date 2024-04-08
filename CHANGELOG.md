@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.22
+
+- Add Refresh Icons
+---
+
 #### v1.0.22-RC1
 
 - Add new Bottom Nav Icons
