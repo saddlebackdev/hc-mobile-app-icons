@@ -3,13 +3,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#000;}
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
 </style>
 <g id="November-Launch-Prep-v1.2">
 	<g id="Class-Pathway---01" transform="translate(-305, -547)">
 		<g id="Group-6" transform="translate(22, 396)">
 			<g id="Group-5" transform="translate(283, 151)">
-				<polygon id="icon-star" class="st0" points="12,0 10.4,9.2 6.6,6.6 9.2,10.4 0,12 9.2,13.6 6.6,17.4 10.4,14.8 12,24 13.6,14.8 
+				<polygon fill="#000" id="icon-star" class="st0" points="12,0 10.4,9.2 6.6,6.6 9.2,10.4 0,12 9.2,13.6 6.6,17.4 10.4,14.8 12,24 13.6,14.8 
 					17.4,17.4 14.8,13.6 24,12 14.8,10.4 17.4,6.6 13.6,9.2 				"/>
 			</g>
 		</g>
