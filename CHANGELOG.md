@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.23
+
+- Modify to take fill out of classes
+---
+
 #### v1.0.22
 
 - Add Refresh Icons

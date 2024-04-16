@@ -3,9 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#000;}
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
 </style>
-<path id="Link" class="st0" d="M7.6,13.4c0.3-0.3,2.1-2.1,2.5-2.5c0.2,0.8,0.5,1.4,1,2c0.5,0.5,1.2,0.9,2,1c0,0,0,0,0,0l0,0
+<path fill="#000" id="Link" class="st0" d="M7.6,13.4c0.3-0.3,2.1-2.1,2.5-2.5c0.2,0.8,0.5,1.4,1,2c0.5,0.5,1.2,0.9,2,1c0,0,0,0,0,0l0,0
 	c1.4,0.3,2.7-0.4,3.3-1.1l3.3-3.3c1.5-1.5,1.5-3.8,0-5.3s-3.8-1.4-5.3,0l-1.9,1.9c-1.4-0.4-3-0.4-4.5,0c0-0.1,0.1-0.1,0.1-0.2
 	c0.2-0.3,0.5-0.6,0.7-0.8l3-3c1.8-1.8,4.4-2.5,6.9-1.9s4.3,2.5,5,5c0.6,2.4-0.1,5.1-1.9,6.9c0,0-2.4,2.5-3.3,3.2
 	c-1.1,0.9-3.4,2.4-6.4,1.8c0,0-0.8-0.2-1-0.3C9.6,16.1,8.3,14.9,7.6,13.4z M16.4,10.6c-0.6,0.6-1.6,1.6-2.5,2.5
