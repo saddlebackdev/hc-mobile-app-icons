@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.25
+
+- Fixing prayer and share-2 Icons
+---
+
 #### v1.0.24
 
 - Add prayer and share-2 Icons
