@@ -2,6 +2,11 @@
 
 #### v1.0.25
 
+- Update the bottom navigation icons
+---
+
+#### v1.0.25
+
 - Fixing prayer and share-2 Icons
 ---
 
