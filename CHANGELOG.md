@@ -1,6 +1,6 @@
 # Changelog
 
-#### v1.0.25
+#### v1.0.26
 
 - Update the bottom navigation icons
 ---
