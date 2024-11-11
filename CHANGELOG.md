@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.27
+
+- Fix typo on house icon
+---
+
 #### v1.0.26
 
 - Update the bottom navigation icons
