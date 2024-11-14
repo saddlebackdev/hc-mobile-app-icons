@@ -1,5 +1,113 @@
 # Changelog
 
+#### v1.0.28
+- Updated/added solid version of the icons:
+House
+Church
+Reading Bible/Book
+User Circle
+Route
+Compass
+Settings
+QR Code
+Extensions
+Volume
+Pop Out
+Gift/Giving
+Download
+Share
+Book Open
+Search
+Heart
+Add
+Globe
+User
+Info Circle
+Check
+Comments
+Repeat
+Steps
+Check Circle
+Question
+Check List
+Document
+Calendar
+Newspaper
+Leaf/Growth
+Children
+Note
+Location
+Mail
+Mobile Phone
+Landline Phone
+Office Phone
+Add Circle
+Clock
+Timer
+Paid Event/Ticket
+Calendar Clock
+View Campus
+Clock Back
+Tools
+Quiet Time
+Devices
+Bitcoin
+Directions 2
+Interested
+Plan a visit
+Volume Off
+Prayer
+Office
+Edit
+Next Step
+Location Searching
+Community
+Visit
+Map
+List
+Directions
+View
+Contact
+Share Story
+Edit Calendar
+Play
+Saddleback
+Podcast
+Subscribe
+Right Arrow
+Memorial
+Relief
+Meal
+Community 2
+Money
+Medical
+Hospital
+Volunteer
+DAF
+Stocks
+Close Circle
+Quick Scan
+Privacy Policy
+Feedback
+Terms of Service
+Notes
+Announcements
+Music
+Digital Program
+Cross
+Serve
+Voice
+Baptism
+Worship
+Sharing
+Activate
+Facebook
+Instagram
+Twitter
+Youtube
+Spotify
+---
+
 #### v1.0.27
 
 - Fix typo on house icon
