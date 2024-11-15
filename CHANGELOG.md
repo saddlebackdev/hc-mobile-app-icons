@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.28
+
+- Update fill color for solid icons
+---
+
 #### v1.0.27
 
 - Fix typo on house icon
