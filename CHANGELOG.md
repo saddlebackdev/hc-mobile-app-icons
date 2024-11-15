@@ -1,6 +1,6 @@
 # Changelog
 
-#### v1.0.28
+#### v1.0.29
 - Updated/added solid version of the icons:
 House
 Church
@@ -106,6 +106,11 @@ Instagram
 Twitter
 Youtube
 Spotify
+---
+
+#### v1.0.28
+
+- Update fill color for solid icons
 ---
 
 #### v1.0.27
