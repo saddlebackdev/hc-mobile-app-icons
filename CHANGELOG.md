@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.29
+
+- Update fill color for light icons
+---
+
 #### v1.0.28
 
 - Update fill color for solid icons
