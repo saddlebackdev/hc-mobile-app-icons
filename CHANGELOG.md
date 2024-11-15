@@ -1,5 +1,10 @@
 # Changelog
 
+#### v1.0.30
+
+- Fix issue on the fill color for the icons on Android
+---
+
 #### v1.0.29
 
 - Update fill color for light icons

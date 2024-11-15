@@ -3,11 +3,11 @@
   <defs>
     <mask id="mask" x=".5" y="0" width="24" height="24" maskUnits="userSpaceOnUse">
       <g id="mask0_2274_36703" data-name="mask0 2274 36703">
-        <rect fill="currentColor" x=".5" width="24" height="24"/>
+        <rect fill="#333" x=".5" width="24" height="24"/>
       </g>
     </mask>
   </defs>
   <g>
-    <path fill="currentColor" d="M6.5,19h3v-6h6v6h3v-9l-6-4.5-6,4.5v9ZM4.5,21v-12L12.5,3l8,6v12h-7v-6h-2v6h-7Z"/>
+    <path fill="#333" d="M6.5,19h3v-6h6v6h3v-9l-6-4.5-6,4.5v9ZM4.5,21v-12L12.5,3l8,6v12h-7v-6h-2v6h-7Z"/>
   </g>
 </svg>
