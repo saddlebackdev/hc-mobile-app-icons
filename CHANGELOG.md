@@ -1,6 +1,6 @@
 # Changelog
 
-#### v1.0.29
+#### v1.0.31
 - Updated/added solid version of the icons:
 House
 Church
@@ -106,6 +106,16 @@ Instagram
 Twitter
 Youtube
 Spotify
+---
+
+#### v1.0.30
+
+- Fix issue on the fill color for the icons on Android
+---
+
+#### v1.0.29
+
+- Update fill color for light icons
 ---
 
 #### v1.0.28
