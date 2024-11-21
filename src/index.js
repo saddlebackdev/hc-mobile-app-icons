@@ -51,7 +51,7 @@ export { default as IconChatReceived } from "./icons/chat-received.svg";
 export { default as IconChatSend } from "./icons/chat-send.svg";
 export { default as IconChatSent } from "./icons/chat-sent.svg";
 export { default as IconChatShow } from "./icons/chat-show.svg";
-expor`t { default as IconCheckCircle } from "./icons/check-circle.svg";
+export { default as IconCheckCircle } from "./icons/check-circle.svg";
 export { default as IconCheckListSolid } from "./icons/checklist-solid.svg";
 export { default as IconCheckSolid } from "./icons/check-solid.svg";
 export { default as IconChevronDown } from "./icons/chevron-down.svg";
