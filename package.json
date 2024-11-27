@@ -1,20 +1,36 @@
 {
-  "name": "hc-app-icons",
-  "version": "1.0.30",
-  "main": "./dist/index.js",
-  "publishConfig": {
-    "access": "public"
-  },
-  "files": [
-    "dist/**/*",
-    "CHANGELOG.md",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "./node_modules/.bin/gulp build"
-  },
-  "devDependencies": {
-    "del": "^6.0.0",
-    "gulp": "^4.0.2"
-  }
+    "name": "hc-app-icons",
+    "version": "2.0.0",
+    "main": "./dist/generated/",
+    "types": "./dist/types/index.d.ts",
+    "publishConfig": {
+        "access": "public"
+      },
+      "files": [
+        "dist/**/*",
+        "CHANGELOG.md",
+        "README.md"
+      ],
+    "scripts": {
+        "prebuild": "mkdir -p generated/v2/web && cp -R src/v2/web/* generated/v2/web/",
+        "build:web": "node scripts/buildWeb.mjs && node ./scripts/buildWebIndex.mjs",
+        "build:icons": "node scripts/buildIcons.mjs && node ./scripts/buildIconsIndex.mjs",
+        "build": "npm run build:icons && npm run build:web && rollup -c",
+        "prepare": "npm run build"
+    },
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^28.0.1",
+        "@rollup/plugin-node-resolve": "^15.3.0",
+        "@rollup/plugin-typescript": "^12.1.1",
+        "@svgr/core": "^8.1.0",
+        "@svgr/plugin-jsx": "^8.1.0",
+        "@svgr/plugin-prettier": "^8.1.0",
+        "@svgr/plugin-svgo": "^8.1.0",
+        "@types/react": "^18.0.0",
+        "@types/react-native": "0.72.0",
+        "rollup": "^4.27.4",
+        "rollup-plugin-copy": "^3.5.0",
+        "rollup-plugin-peer-deps-external": "^2.2.4",
+        "typescript": "^5.1.6"
+    }
 }
