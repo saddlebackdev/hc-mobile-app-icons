@@ -17,6 +17,9 @@
         "build": "npm run build:icons && npm run build:web && rollup -c",
         "prepare": "npm run build"
     },
+    "peerDependencies": {
+      "react": "^16.8.6 || ^18"
+    },
     "devDependencies": {
         "@rollup/plugin-commonjs": "^28.0.1",
         "@rollup/plugin-node-resolve": "^15.3.0",
@@ -25,8 +28,11 @@
         "@svgr/plugin-jsx": "^8.1.0",
         "@svgr/plugin-prettier": "^8.1.0",
         "@svgr/plugin-svgo": "^8.1.0",
-        "@types/react": "^18.0.0",
+        "@types/react": "^17.0.34",
+        "@types/react-dom": "^17.0.11",
         "@types/react-native": "0.72.0",
+        "react": "^16.14.0",
+        "react-dom": "^16.14.0",
         "rollup": "^4.27.4",
         "rollup-plugin-copy": "^3.5.0",
         "rollup-plugin-peer-deps-external": "^2.2.4",
