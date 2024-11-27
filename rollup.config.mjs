@@ -27,7 +27,9 @@ export default [
       copy({
         targets: [
           { src: 'generated/v2/index.js', dest: 'dist/generated/v2' },
-          { src: 'generated/v2/icons/**/*', dest: 'dist/generated/v2/icons' }
+          { src: 'generated/v2/icons/**/*', dest: 'dist/generated/v2/icons' },
+          { src: 'src/index.js', dest: 'dist/generated' },
+          { src: 'src/icons/**/*', dest: 'dist/generated/icons' }
         ]
       }),
     ],
