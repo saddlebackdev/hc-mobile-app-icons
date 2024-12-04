@@ -6,6 +6,7 @@
 
 # builds
 /dist
+/generated
 
 # logs
 npm-debug.log
