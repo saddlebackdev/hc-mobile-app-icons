@@ -27,3 +27,13 @@ fs.writeFileSync(
     })
     .join("\n")}`
 );
+
+// Generate index.d.ts for svg
+fs.writeFileSync(
+  path.resolve(__dirname, "../generated/v2/index.d.ts"),
+  `/* !!!! This file is generated automatically, please don't modify it!!!! */\n${exportsArray
+    .map((item) => {
+      return `export declare const ${item.name}: string;`;
+    })
+    .join("\n")}`
+);

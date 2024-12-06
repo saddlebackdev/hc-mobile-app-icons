@@ -17,7 +17,7 @@ export default [
       peerDepsExternal(),
       resolve(),
       commonjs(),
-      typescript({ 
+      typescript({
         tsconfig: './tsconfig.json',
         outDir: 'dist', // Ensure this matches the output dir
         declarationDir: 'dist/types',
@@ -27,6 +27,7 @@ export default [
       copy({
         targets: [
           { src: 'generated/v2/index.js', dest: 'dist/generated/v2' },
+          { src: 'generated/v2/index.d.ts', dest: 'dist/types/v2/' },
           { src: 'generated/v2/icons/**/*', dest: 'dist/generated/v2/icons' },
           { src: 'src/index.js', dest: 'dist/generated' },
           { src: 'src/icons/**/*', dest: 'dist/generated/icons' }
